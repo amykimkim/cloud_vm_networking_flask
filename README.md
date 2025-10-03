@@ -6,7 +6,7 @@ HHA 504 assignment 2
 - Cloud Provider: Google Cloud Platform (GCP)
 
 ## Video recording: 
-- Zoom/Loom: 
+- Zoom Recording: https://youtu.be/cZs24nV_ijs
 
 ## Steps
 ### 1. VM Creation
