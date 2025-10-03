@@ -37,4 +37,4 @@ sudo apt install python3 python3-pip git -y
 URL: http://34.21.19.78:5003  
 ![screenshot](photos/public_ip_address.png)
 
-#### I stopped off my VM after completing the tutorial, therefore, you will not be able to see it if you click on the URL. 
+#### I turned off my VM after completing the tutorial, therefore, you will not be able to see it if you click on the URL. 
